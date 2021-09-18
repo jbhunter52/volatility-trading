@@ -1,1 +1,1 @@
-from volatility import models
+import volatility.models
